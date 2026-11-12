@@ -42,4 +42,4 @@ Node.js가 있다면 프로젝트 폴더에서 `node preview.cjs`를 실행하�
 
 ## 배포 상태
 
-로컬 구현과 브라우저 검증 완료. 팀 GitHub 저장소 sjbrotherjs/team3에서 소스를 관리합니다. 웹 호스팅 배포는 아직 설정하지 않았습니다.
+공개 사이트: https://sjbrotherjs.github.io/team3/ (로그인 없이 접속 가능). 팀 GitHub 저장소 sjbrotherjs/team3에서 소스를 관리합니다. codex/chwiijikgak-site 브랜치의 docs 폴더가 GitHub Pages에 배포됩니다. dist 수정 후 docs에도 동일하게 반영해야 합니다. 실시간 주소·채용·DART API는 아직 연결하지 않았습니다.
