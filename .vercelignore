@@ -1,0 +1,10 @@
+.env
+.env.*
+data
+.git
+docs
+server.cjs
+setup.html
+*.test.cjs
+start-local.cmd
+preview.cjs
